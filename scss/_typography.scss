@@ -1,0 +1,10 @@
+// Lato
+.lato_regular {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; // Change
+    color: #000000; // black
+}
+
+.regular_10 {
+    @extend .lato_regular;
+    font-size: 10px;
+}
