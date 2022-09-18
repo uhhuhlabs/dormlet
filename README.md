@@ -9,10 +9,16 @@ Sublet your dorm room
 
 ## What is dormlet?
 
-## How to contribute
 
+## How to contribute
+To contribute to dormlet, please check the [contribution guidelines](.github/CONTRIBUTING.md).
 
 ## Further Reading
 
+
 ## Licence 
 dormlet is available under the ...
+
+## Legal
+[Terms and Conditions](files/TC.md)
+[EULA](files/EULA.md)
